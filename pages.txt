@@ -1,1 +1,1 @@
-["https://story.trex-sandwich.com/?page=1"]
+["https://raw.githubusercontent.com/webtrickug/lugbarati/main/page1.txt"]
